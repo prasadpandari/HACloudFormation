@@ -75,6 +75,6 @@ Url for accessing site:
 
 http://hauda-LoadB-YLSC9MAS1R87-449653622.us-west-2.elb.amazonaws.com 
 
-![alt text][architecture]
+![alt text][Screenshot]
 
 [Screenshot]: https://github.com/prasadpandari/HACloudFormation/blob/master/Udagram.png "Screenshot"
