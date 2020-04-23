@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdagramHA"
+  },
+  {
+    "ParameterKey": "ScalingMinSize",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "ScalingMaxSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "pandariawskeypair"
+  }
+]
