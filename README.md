@@ -34,7 +34,7 @@ CloudFormation script to create high availability (packaged and staged in AWS S3
 ### Detailed Infrastructure Architecture
 
 ![alt text][architecture]
-[architecture]: HAArchitecture.png "Architecture Diagram"
+[architecture]: https://github.com/prasadpandari/HACloudFormation/blob/master/HAArchitecture.png "Architecture Diagram"
 
 <br>
 
