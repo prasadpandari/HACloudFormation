@@ -66,3 +66,15 @@ eg. ./create.sh haudagram network.yml network-params.json
  Updates to server infra can be done by using update.sh script
 
 ./create.sh haudagram network.yml network-params.json
+
+<br>
+
+### URL and Output
+
+Url for accessing site: 
+
+http://hauda-LoadB-YLSC9MAS1R87-449653622.us-west-2.elb.amazonaws.com 
+
+![alt text][architecture]
+
+[Screenshot]: https://github.com/prasadpandari/HACloudFormation/blob/master/Udagram.png "Screenshot"
